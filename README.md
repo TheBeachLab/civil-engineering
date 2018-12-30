@@ -1,5 +1,6 @@
 # Open Tools for Civil Engineering
-A curated collection of open tools for Civil Engineers
+
+A collection of open tools for Civil Engineers. Curated by Francisco Sanchez Arroyo
 * Buildings and Structures
 * Soil Mechanics
 * Dams and water retaining structures
@@ -13,4 +14,4 @@ A curated collection of open tools for Civil Engineers
 * Urbanism and city planning
 * Materials engineering
 * Environmental engineering
-  
+* Maps and cartography

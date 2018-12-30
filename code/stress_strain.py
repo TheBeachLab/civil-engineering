@@ -2,7 +2,7 @@
 
 # Stress ans Strain analysis
 # Structural engineering open tools
-# by Francisco Sanchez
+# by Francisco Sanchez Arroyo
 # Dec 2018, Barcelona
 # MIT license
 
